@@ -7,7 +7,7 @@ import org.bukkit.command.CommandSender;
 public class battleStartCommand implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        sender.sendMessage("r");
+        sender.sendMessage("hello world");
         return false;
     }
 }
