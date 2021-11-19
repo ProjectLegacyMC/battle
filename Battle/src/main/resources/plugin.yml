@@ -1,0 +1,4 @@
+name: Battle
+version: ${project.version}
+main: projectlegacy.battle.Battle
+authors: [ fizzdev, Sushid00 ]
