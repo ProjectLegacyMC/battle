@@ -1,0 +1,6 @@
+name: Me.fizzdev.battleLegacy
+version: '${project.version}'
+main: battlelegacy.me.fizzdev.Core
+authors: [ fizzdev ]
+description: Battle minigame created for Minecraft Java Edition
+website: luminamc.com
